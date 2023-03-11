@@ -1,0 +1,7 @@
+*.ipynb
+
+*.png
+*.jpg
+
+.ipynb_ceckpoints
+.python-version
